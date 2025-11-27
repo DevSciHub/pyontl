@@ -1,0 +1,33 @@
+[project]
+name = "pyontl"
+version = "1.0.2"
+description = "Biblioteca Python para acesso a dados da ONTL."
+readme = "README.md"
+authors = [
+  {name = "DevSci", email = "dev.sci.space@gmail.com"},
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+
+dependencies = [
+  "requests>=2.25.0",
+  "pandas>=1.1.0",
+]
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/DevSciHub/pyontl"
+Repository = "https://github.com/DevSciHub/pyontl.git"
+Documentation = "https://github.com/DevSciHub/pyontl#readme"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
