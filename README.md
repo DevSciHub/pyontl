@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/1104954910.svg)](https://doi.org/10.5281/zenodo.17730387)
 
+[![PyPI version](https://img.shields.io/pypi/v/pyontl.svg)](https://pypi.org/project/pyontl/)
+
 # Documentação da pyontl
 
 ## Visão Geral
