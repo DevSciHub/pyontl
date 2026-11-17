@@ -1,6 +1,6 @@
 [project]
 name = "pyontl"
-version = "1.0.2"
+version = "1.1.0"
 description = "Biblioteca Python para acesso a dados da ONTL."
 readme = "README.md"
 authors = [
@@ -20,6 +20,7 @@ classifiers = [
 dependencies = [
   "requests>=2.25.0",
   "pandas>=1.1.0",
+  "urllib3>=1.26,<3",
 ]
 requires-python = ">=3.8"
 
@@ -31,3 +32,9 @@ Documentation = "https://github.com/DevSciHub/pyontl#readme"
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["pyontl"]
+
+[tool.hatch.build.targets.sdist]
+include = ["/pyontl", "/tests", "/README.md", "/LICENSE", "/pyproject.toml", "/setup.py"]

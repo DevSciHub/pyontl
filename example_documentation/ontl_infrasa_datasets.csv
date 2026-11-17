@@ -1,0 +1,286 @@
+fonte,sub_fonte,categoria,sub_categoria,item,url
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,RODOVIÁRIO,,Praças de pedágio,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_pracaspedagio
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,RODOVIÁRIO,,Concessões rodoviárias federais,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_concessoesrodoviarias
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,RODOVIÁRIO,,Quilômetros de rodovias federais por tipo e por estado (SNV),https://ontl-apim.infrasa.gov.br/api/public/datasets/dnit_kmrodoviafederal
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,RODOVIÁRIO,,Quilômetros de rodovias concessionadas por tipo e por estado,https://ontl-apim.infrasa.gov.br/api/public/datasets/abcr_kmrodovconcessionada
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,RODOVIÁRIO,,ICM – Índice de Cobertura da Manutenção,https://ontl-apim.infrasa.gov.br/api/public/datasets/dnit_icm
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FERROVIÁRIO,,"Trens não regulares (trens turísticos, histórico-culturais e comemorativos)",https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_trensnaoregulares
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FERROVIÁRIO,,Pátios das linhas ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_patioferrovia
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FERROVIÁRIO,,Entre pátios das linhas ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_entrepatiosferrovia
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FERROVIÁRIO,,Terminais das linha ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_terminalferroviario
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FERROVIÁRIO,,Autorizações ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_autorizacoesferroviaria
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,AQUAVIÁRIO,,Portos organizados,https://ontl-apim.infrasa.gov.br/api/public/datasets/dnit_portosorganizados
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,AQUAVIÁRIO,,Extensão (km) de hidrovias,https://ontl-apim.infrasa.gov.br/api/public/datasets/dnit_kmviainteriornavegavel
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,AQUAVIÁRIO,,Eclusas,https://ontl-apim.infrasa.gov.br/api/public/datasets/dnit_eclusas
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,AQUAVIÁRIO,,Instalações portuárias públicas de pequeno porte - ip4,https://ontl-apim.infrasa.gov.br/api/public/datasets/dnit_instportuariapequenoporte
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,AQUAVIÁRIO,,Vias economicamente navegáveis,https://ontl-apim.infrasa.gov.br/api/public/datasets/antaq_viaseconomicamentenavegaveis
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,AQUAVIÁRIO,,Quilômetros de hidrovias por situação e por região hidrográfica (SNV),https://ontl-apim.infrasa.gov.br/api/public/datasets/dnit_kmhidroviassnv
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,AEROVIÁRIO,,"Aeródromos públicos, concedidos e privados",https://ontl-apim.infrasa.gov.br/api/public/datasets/anac_infrainformacoesaerodromos
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,AEROVIÁRIO,,Helídecks privados,https://ontl-apim.infrasa.gov.br/api/public/datasets/anac_helideckprivado
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,DUTOVIÁRIO,,Capacidades e disponibilidades dos dutos longos,https://ontl-apim.infrasa.gov.br/api/public/datasets/transpetro_capaciddispondutoslongos
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,DUTOVIÁRIO,,Capacidades e disponibilidades dos dutos curtos,https://ontl-apim.infrasa.gov.br/api/public/datasets/transpetro_capaciddispondutoscurtos
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,DUTOVIÁRIO,,Serviço duto com destino paulínea,https://ontl-apim.infrasa.gov.br/api/public/datasets/logum_destinopaulinia
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,DUTOVIÁRIO,,Serviço duto com origem paulínea,https://ontl-apim.infrasa.gov.br/api/public/datasets/logum_origempaulinia
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,DUTOVIÁRIO,,"Quantidade e extensão de dutos em operação, por função, segundo produtos movimentados",https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_totalprodutostransportados
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,MULTIMODAL,,"Extensão da malha de países estrangeiros para os modos aeroviário, aquaviário, ferroviário e rodoviário",https://ontl-apim.infrasa.gov.br/api/public/datasets/exterior_malha
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,"EQUIPAMENTOS, INSTALAÇÕES E SISTEMAS TECNOLÓGICOS",RODOVIÁRIO,Locais com equipamentos de controle de velocidade instalados no brasil,https://ontl-apim.infrasa.gov.br/api/public/datasets/dnit_localcomequipamento
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,"EQUIPAMENTOS, INSTALAÇÕES E SISTEMAS TECNOLÓGICOS",FERROVIÁRIO,Perfil dos trilhos das linhas ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_perfiltrilhos
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,"EQUIPAMENTOS, INSTALAÇÕES E SISTEMAS TECNOLÓGICOS",FERROVIÁRIO,Dormentes das linhas ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_dormente
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,"EQUIPAMENTOS, INSTALAÇÕES E SISTEMAS TECNOLÓGICOS",FERROVIÁRIO,Velocidade máxima autorizada com trem carregado por linhas ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_velocidademaximatremcarregado
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,"EQUIPAMENTOS, INSTALAÇÕES E SISTEMAS TECNOLÓGICOS",FERROVIÁRIO,Velocidade máxima autorizada com trem vazio por linhas ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_velocidademaximatremvazio
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,"EQUIPAMENTOS, INSTALAÇÕES E SISTEMAS TECNOLÓGICOS",FERROVIÁRIO,Velocidade máxima autorizada com produtos perigosos por linhas ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_velocidademaximaprodutoperigoso
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,"EQUIPAMENTOS, INSTALAÇÕES E SISTEMAS TECNOLÓGICOS",FERROVIÁRIO,Velocidade média comercial com trem carregado por linhas ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_velocidademediatremcarregado
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,"EQUIPAMENTOS, INSTALAÇÕES E SISTEMAS TECNOLÓGICOS",FERROVIÁRIO,Velocidade média comercial com trem vazio por linhas ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_velocidademediatremvazio
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,"EQUIPAMENTOS, INSTALAÇÕES E SISTEMAS TECNOLÓGICOS",FERROVIÁRIO,Velocidade média comercial com produtos perigosos por linhas ferroviárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_velocidademediaprodutoperigoso
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FROTA DE VEÍCULOS,RODOVIÁRIO,"Nº de veículos rodoviários por tipo, município e uf",https://ontl-apim.infrasa.gov.br/api/public/datasets/senatran_veiculorodoviariotipomuncp
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FROTA DE VEÍCULOS,RODOVIÁRIO,Nº de veículos rodoviários por idade do veículo e uf,https://ontl-apim.infrasa.gov.br/api/public/datasets/senatran_veiculorodoviarioidadeuf
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FROTA DE VEÍCULOS,RODOVIÁRIO,Transporte rodoviário internacional de cargas (tric),https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_transrodinternacionalcargas
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FROTA DE VEÍCULOS,RODOVIÁRIO,Registros de operador de transporte multimodal de cargas (otm),https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_registrosoperadortransp
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FROTA DE VEÍCULOS,RODOVIÁRIO,Frota rodoviária para transporte de carga por tipo de vaículo e categoria do transportador,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_frotarodoviariatranspcarga
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FROTA DE VEÍCULOS,RODOVIÁRIO,"Nº de veículos rodoviários por tipo de combustível, município e uf",https://ontl-apim.infrasa.gov.br/api/public/datasets/senatran_veiculocombustpormuncp
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FROTA DE VEÍCULOS,AQUAVIÁRIO,Frota de embarcações,https://ontl-apim.infrasa.gov.br/api/public/datasets/antaq_frota
+"RECURSOS, INFRAESTRUTURAS, EQUIPAMENTOS, TECNOLOGIAS E VEÍCULOS",INFRAESTRUTURAS BÁSICAS,FROTA DE VEÍCULOS,AEROVIÁRIO,Aeronaves,https://ontl-apim.infrasa.gov.br/api/public/datasets/anac_registrosaeronauticos
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,MOVIMENTAÇÃO DE CARGAS,FERROVIÁRIO,,Movimentação de carga ferroviária,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_movimentacaocarga
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,MOVIMENTAÇÃO DE CARGAS,AQUAVIÁRIO,,Movimentações nos terminais aquaviários m³,https://ontl-apim.infrasa.gov.br/api/public/datasets/transpetro_movterminaisaquaviarios
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,MOVIMENTAÇÃO DE CARGAS,AQUAVIÁRIO,,Movimentação por porto público e privado,https://ontl-apim.infrasa.gov.br/api/public/datasets/antaq_movimentacaoportuariaea
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,MOVIMENTAÇÃO DE CARGAS,AQUAVIÁRIO,,Toneladas transportadas em navegação,https://ontl-apim.infrasa.gov.br/api/public/datasets/antaq_carga
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,MOVIMENTAÇÃO DE CARGAS,AQUAVIÁRIO,,Transporte de contêineres em transporte aquaviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/antaq_cargaconteinerizada
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,MOVIMENTAÇÃO DE CARGAS,AQUAVIÁRIO,,Movimentação contêineres (bruto) (teu),https://ontl-apim.infrasa.gov.br/api/public/datasets/antaq_movconteineres
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,MOVIMENTAÇÃO DE CARGAS,AQUAVIÁRIO,,Transportado por cabotagem,https://ontl-apim.infrasa.gov.br/api/public/datasets/antaq_transpcabotagemcontaineres
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,MOVIMENTAÇÃO DE CARGAS,AEROVIÁRIO,,Dados estatísticos de movimentação aeroviária,https://ontl-apim.infrasa.gov.br/api/public/datasets/anac_estmovimentacaoaerea
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,MOVIMENTAÇÃO DE CARGAS,DUTOVIÁRIO,,Volume (m³) transportado por oleoduto por produto e uf,https://ontl-apim.infrasa.gov.br/api/public/datasets/transpetro_m3transpoleodutoprodutouf
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,MOVIMENTAÇÃO DE CARGAS,DUTOVIÁRIO,,Volume (m³) transportado por gasoduto por companhia,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_movimentacaogasnatural
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRANSPORTE DE PASSAGEIROS,RODOVIÁRIO,,Passageiros transportados por serviços regulares rodoviários e interestaduais,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_passageirodoviareginterest
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRANSPORTE DE PASSAGEIROS,AEROVIÁRIO,,Reclamações por empresa aérea no consumidor.gov.br,https://ontl-apim.infrasa.gov.br/api/public/datasets/anac_reclamacaoempresaerea
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRANSPORTE DE PASSAGEIROS,AEROVIÁRIO,,Distribuição das reclamações sobre as empresas aéreas por subtemas no consumidor.gov.br,https://ontl-apim.infrasa.gov.br/api/public/datasets/anac_reclamacaoemprportema
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRANSPORTE DE PASSAGEIROS,AEROVIÁRIO,,Percentuais de atrasos e cancelamentos de voos nacionais e internacionais,https://ontl-apim.infrasa.gov.br/api/public/datasets/anac_percatrcancelvoonacinter
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRANSPORTE DE PASSAGEIROS,AEROVIÁRIO,,Demanda e oferta de passageiros por aeroportos,https://ontl-apim.infrasa.gov.br/api/public/datasets/anac_demandaofertapassageirosaeroportos
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRÁFEGO DE VEÍCULOS,RODOVIÁRIO,,Vmda nas rodovias federais por contador pnct,https://ontl-apim.infrasa.gov.br/api/public/datasets/dnit_pnct
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRÁFEGO DE VEÍCULOS,RODOVIÁRIO,,Tráfego pedagiado (veículos),https://ontl-apim.infrasa.gov.br/api/public/datasets/abcr_trafegopedagiado
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRÁFEGO DE VEÍCULOS,RODOVIÁRIO,,Índice ABCR,https://ontl-apim.infrasa.gov.br/api/public/datasets/abcr_indiceabcrdessazonalizado
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRÁFEGO DE VEÍCULOS,RODOVIÁRIO,,Tráfego de veículos nos equipamentos de contagem veicular (sats),https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_trafegoveiculosequipamentos
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRÁFEGO DE VEÍCULOS,RODOVIÁRIO,,Tarifas de pedágio,https://ontl-apim.infrasa.gov.br/api/public/datasets/abcr_tarifaspedagio
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRÁFEGO DE VEÍCULOS,FERROVIÁRIO,,Movimentação de trens no transporte ferroviário de cargas,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_movimentotrensdecarga
+MOVIMENTAÇÃO DE CARGAS E PASSAGEIROS E TRÁFEGO DE VEÍCULOS,TRÁFEGO DE VEÍCULOS,AQUAVIÁRIO,,Atracações de embarcações,https://ontl-apim.infrasa.gov.br/api/public/datasets/antaq_atracacaoembarcacao
+INTERMODALIDADE E ARMAZENAGEM,INFRAESTRUTURA,INSTALAÇÕES DE ARMAZENAGEM,,"Nº de tanques e capacidade de armazenagem de petróleo, seus derivados e biocombustíveis, por terminais e tipo de combustíveis",https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_capacidadeterminaldecarga
+INTERMODALIDADE E ARMAZENAGEM,INFRAESTRUTURA,INSTALAÇÕES DE ARMAZENAGEM,,Quantidade e capacidade estática dos armazéns por município,https://ontl-apim.infrasa.gov.br/api/public/datasets/conab_qtdcapacidarmazenmunicipio
+INTERMODALIDADE E ARMAZENAGEM,INFRAESTRUTURA,INSTALAÇÕES DE ARMAZENAGEM,,Portos secos,https://ontl-apim.infrasa.gov.br/api/public/datasets/receita_portoseco
+INTERMODALIDADE E ARMAZENAGEM,INFRAESTRUTURA,INSTALAÇÕES DE ARMAZENAGEM,,Silos e tanques,https://ontl-apim.infrasa.gov.br/api/public/datasets/receita_silosetanques
+INTERMODALIDADE E ARMAZENAGEM,INFRAESTRUTURA,CAPACIDADE DE ARMAZENAGEM,,Capacidade estática dos armazéns por unidade da federação,https://ontl-apim.infrasa.gov.br/api/public/datasets/conab_capacidadestaticaarmazemuf
+"SEGURANÇA, ACIDENTES E INCIDENTES NO TRANSPORTE",ACIDENTES E INCIDENTES NO TRANSPORTE,RODOVIÁRIO,,Vítimas em sinistros em rodovias federais. número de mortos/feridos,https://ontl-apim.infrasa.gov.br/api/public/datasets/dprf_vitimasemacidentesrodoviasfederais
+"SEGURANÇA, ACIDENTES E INCIDENTES NO TRANSPORTE",ACIDENTES E INCIDENTES NO TRANSPORTE,RODOVIÁRIO,,Sinistros em rodovias federais,https://ontl-apim.infrasa.gov.br/api/public/datasets/dprf_acidenterodoviafederal/
+"SEGURANÇA, ACIDENTES E INCIDENTES NO TRANSPORTE",ACIDENTES E INCIDENTES NO TRANSPORTE,RODOVIÁRIO,,Sinistros concessionárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_acidentesconcessionarias
+"SEGURANÇA, ACIDENTES E INCIDENTES NO TRANSPORTE",ACIDENTES E INCIDENTES NO TRANSPORTE,RODOVIÁRIO,,Sinistros de trânsito em âmbito nacional,https://ontl-apim.infrasa.gov.br/api/public/datasets/renaest_sinistrostransitonacional
+"SEGURANÇA, ACIDENTES E INCIDENTES NO TRANSPORTE",ACIDENTES E INCIDENTES NO TRANSPORTE,RODOVIÁRIO,,Mortalidade geral,https://ontl-apim.infrasa.gov.br/api/public/datasets/sus_mortalidadegeral
+"SEGURANÇA, ACIDENTES E INCIDENTES NO TRANSPORTE",ACIDENTES E INCIDENTES NO TRANSPORTE,FERROVIÁRIO,,Índice de acidentes (acidentes por milhão de trem.km),https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_indiceacidentes
+"SEGURANÇA, ACIDENTES E INCIDENTES NO TRANSPORTE",ACIDENTES E INCIDENTES NO TRANSPORTE,FERROVIÁRIO,,Acidentes ferroviários e número de vítimas,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_numeroacidenteferrovias
+"SEGURANÇA, ACIDENTES E INCIDENTES NO TRANSPORTE",ACIDENTES E INCIDENTES NO TRANSPORTE,AQUAVIÁRIO,,Acidentes aquaviários,https://ontl-apim.infrasa.gov.br/api/public/datasets/dpc_acidenteaquaviario
+"SEGURANÇA, ACIDENTES E INCIDENTES NO TRANSPORTE",ACIDENTES E INCIDENTES NO TRANSPORTE,AEROVIÁRIO,,Acidentes por aeronave,https://ontl-apim.infrasa.gov.br/api/public/datasets/cenipa_acidenteporocoreaeronave
+"SEGURANÇA, ACIDENTES E INCIDENTES NO TRANSPORTE",ACIDENTES E INCIDENTES NO TRANSPORTE,AEROVIÁRIO,,Panorama dos acidentes aeroviários,https://ontl-apim.infrasa.gov.br/api/public/datasets/cenipa_acidentesaeroviarios
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,MACROECONOMIA (CONTAS NACIONAIS),,Variação no faturamento nominal do comércio varejista (turismo e transporte),https://ontl-apim.infrasa.gov.br/api/public/datasets/cielo_faturamentonominalcomerciovarejista
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,MACROECONOMIA (CONTAS NACIONAIS),,Pesquisa mensal de serviços,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_pesquisamensaldeservicos
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,MACROECONOMIA (CONTAS NACIONAIS),,Valor bruto da produção,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_valorbrutoproducao
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,MACROECONOMIA (CONTAS NACIONAIS),,Fbcf anual,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_contanacionalfbcfanual
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,MACROECONOMIA (CONTAS NACIONAIS),,"Vab dos transporte, atividades anexas e correios anual",https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_contanacionalvaba
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,MACROECONOMIA (CONTAS NACIONAIS),,"Ocupações em transporte, atividades anexas e correios anual",https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_contanacionaltranspa
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,MACROECONOMIA (CONTAS NACIONAIS),,"Vendas, pelas distribuidoras, dos derivados combustíveis de petróleo (m³)",https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_vendasderivadospetroleo
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,MACROECONOMIA (CONTAS NACIONAIS),,Registro Nacional de Infrações - RENAINE,https://ontl-apim.infrasa.gov.br/api/public/datasets/senatran_registronacionalinfracoes
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,MACROECONOMIA (CONTAS NACIONAIS),,Seguro de Resposabilidade Civil,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_valepedagioobrigatorio
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,COMÉRCIO EXTERIOR,,Importações e exportações de petróleo (m³),https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_impexppetroleo
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,COMÉRCIO EXTERIOR,,Importações e exportações de derivados de petróleo (m³),https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_impexpderivadospetroleo
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,COMÉRCIO EXTERIOR,,Logistics performance index (lpi),https://ontl-apim.infrasa.gov.br/api/public/datasets/bancomundial_indiceperformancelogistica
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,COMÉRCIO EXTERIOR,,Reais de exportação / kg de exportação,https://ontl-apim.infrasa.gov.br/api/public/datasets/mdic_comexexportacao
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,COMÉRCIO EXTERIOR,,Reais de importação / kg de importação,https://ontl-apim.infrasa.gov.br/api/public/datasets/mdic_comeximportacao
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,COMÉRCIO EXTERIOR,,Taxa de cambio real vs outras moedas,https://ontl-apim.infrasa.gov.br/api/public/datasets/bcb_taxacambioreal
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,COMÉRCIO EXTERIOR,,Agrostat,https://ontl-apim.infrasa.gov.br/api/public/datasets/mapa_agrostat
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,"Autoveículos por segmento de produção: licenciamento de nacionais, importados e total; exportações em unidades",https://ontl-apim.infrasa.gov.br/api/public/datasets/anfavea_licenciamentoautoveiculos
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,Produção de minério de ferro das principais empresas do ramo,https://ontl-apim.infrasa.gov.br/api/public/datasets/mineracao_prodminerioferro
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,"Produção, consumo e despacho de cimento por região",https://ontl-apim.infrasa.gov.br/api/public/datasets/snic_producaoconsumodespcimento
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,Unidades produzidas de motocicletas,https://ontl-apim.infrasa.gov.br/api/public/datasets/abraciclo_produzidosmotocicletas
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,"Produção industrial, por grandes categorias econômicas",https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_producindustrcatseco
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,Produção de bens agrícolas,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_producaobemagricola
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,Produção de bens agrícolas,https://ontl-apim.infrasa.gov.br/api/public/datasets/conab_producaobemagricola
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,Volume de produção e importação de petróleo e derivados de petróleo,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_producaoderivadospetroleo
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,Aeronaves produzidas,https://ontl-apim.infrasa.gov.br/api/public/datasets/embraer_aeronaveproduzida
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,Unidades produzidas de veículos de transporte ferroviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/abifer_unidadesdeveiculosferroviario
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,Unidades produzidas de veículos de transporte rodoviário e agrícola,https://ontl-apim.infrasa.gov.br/api/public/datasets/anfavea_producaoveiculorodoviario
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ECONOMIA,PRODUÇÃO FÍSICA,,Produção de bens industriais,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_producaobemindustrialvaranual
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,INVESTIMENTOS,INVESTIMENTO PÚBLICO E PRIVADO,,Investimentos públicos do governo federal em transportes,https://ontl-apim.infrasa.gov.br/api/public/datasets/senado_investimentopublgovtransp
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,INVESTIMENTOS,INVESTIMENTO PÚBLICO E PRIVADO,,Investimentos públicos das empresas estatais em transportes,https://ontl-apim.infrasa.gov.br/api/public/datasets/senado_investimentoeestataltransp
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,INVESTIMENTOS,INVESTIMENTO EXTERIOR EM TRANSPORTE,,Saídas e retornos de investimentos brasileiros em transporte no exterior,https://ontl-apim.infrasa.gov.br/api/public/datasets/bcb_saidaretornoinvestexterior
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,INVESTIMENTOS,INVESTIMENTO EXTERIOR EM TRANSPORTE,,Entradas e retornos de investimentos estrangeiros em transporte no brasil,https://ontl-apim.infrasa.gov.br/api/public/datasets/bcb_ingressoregressoinvestext
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,"Quantidade de empresas, pessoal ocupado, assalariado e salários",https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_emprpessassalocupadotransp
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,"Quantidade de empresas, pessoal ocupado, assalariado e salários por faixas",https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_emprpessoassalariadoporfaixa
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,"Quantidade de empresas, pessoal ocupado e salários por natureza jurídica",https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_emprpessotranspnjniv1
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,Quantidade de unidades locais por região,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_localporregiao
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,Quantidade de unidades locais por faixa de pessoal ocupado,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_localporpessoalocupado
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,Receita das empresas (valores por 1.000 r$),https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_receitaempresa
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,Custos das empresas (valores por 1.000 r$),https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_custoempresa
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,Resultados das empresas(valores por 1.000 r$),https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_resultadoempresa
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,Despesas operacionais(valores por 1.000 r$),https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_despesasoperacionais
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,"Despesas financeiras, de arrendamento mercantil e de participações acionarias(valores por 1.000 r$)",https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_despfinanarrenpartacion
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,"Depreciação, amortização, despesas não operacionais, e constituição de provisões das empresas(valores por 1.000 r$)",https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_depramortdespnaooperprov
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,Gastos com pessoal(valores por 1.000 r$),https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_gastoscompessoal
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,Aquisições do ativo tangível(valores por 1.000 r$),https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_aquisicaoativotangivel
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,Baixas do ativo tang[ivel(valores por 1.000 r$),https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_baixaativotangivel
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,EMPRESAS REGISTRADAS,,Nº de empresas de transporte de carga rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_transportecargarodoviario
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,EMPRESAS REGISTRADAS,,Nº de empresas de transporte aquaviário de carga,https://ontl-apim.infrasa.gov.br/api/public/datasets/antaq_navegacaointeriormaritma
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,ESTRUTURA EMPRESARIAL E COMERCIAL,EMPRESAS REGISTRADAS,,Transportadores RNTRC,https://ontl-apim.infrasa.gov.br/api/public/datasets/antt_transportadoresrntrc
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,EMPREGO,POR ATIVIDADES DO SETOR SERVIÇOS (CNAE 2.0),,Cempre,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_ocupacaosalariostransp
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,EMPREGO,PESQUISA NACIONAL POR AMOSTRA DE DOMICÍLIOS CONTÍNUA,,"Pessoas de 14 anos ou mais idade, ocupadas em transporte, armazenagem e correio na semana de referência",https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_ocupadonotransporte
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",ÍNDICES NACIONAIS DE PREÇOS,,Inpc,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_precotransporteinpc
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",ÍNDICES NACIONAIS DE PREÇOS,,Índice nacional de preços ao consumidor amplo 15,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibge_ipcanacional
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",ÍNDICES NACIONAIS DE PREÇOS,,Índice geral de preços,https://ontl-apim.infrasa.gov.br/api/public/datasets/ipea_igp
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",PREÇOS DOS COMBUSTÍVEIS,,Preços dos combustíveis para transporte rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_precocombusttransprodovms
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",PREÇOS DOS COMBUSTÍVEIS,,Preços dos combustíveis para transporte rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_precocombusttransprodove
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",PREÇOS DOS COMBUSTÍVEIS,,Preços dos combustíveis para transporte rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_precocombusttransprodovrs
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",PREÇOS DOS COMBUSTÍVEIS,,Preços dos combustíveis para transporte rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_precocombusttransprodovbs
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",PREÇOS DOS COMBUSTÍVEIS,,Preços dos combustíveis para transporte rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_precocombusttransprodovmm
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",PREÇOS DOS COMBUSTÍVEIS,,Preços dos combustíveis para transporte rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_precocombusttransprodovem
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",PREÇOS DOS COMBUSTÍVEIS,,Preços dos combustíveis para transporte rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_precocombusttransprodovrm
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",PREÇOS DOS COMBUSTÍVEIS,,Preços dos combustíveis para transporte rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_precocombusttransprodovbm
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",TRANSPORTE DE CARGA,,Índice nacional da variação de custos do transporte rodoviário de cargas fracionadas (inctf),https://ontl-apim.infrasa.gov.br/api/public/datasets/ntcl_inctf
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",TRANSPORTE DE CARGA,,Índice nacional da variação de custos do transporte rodoviário de carga lotação (inctl),https://ontl-apim.infrasa.gov.br/api/public/datasets/ntcl_inctl
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",TRANSPORTE DE CARGA,,"Preço do frete em grão de acordo com a origem e destino, por mês e por rota de escoamento",https://ontl-apim.infrasa.gov.br/api/public/datasets/imea_precofretegraosrodoviario
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",TRANSPORTE DE CARGA,,Tarifas dos dutos longos,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_tarifadutolongo
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",TRANSPORTE DE CARGA,,Tarifas no transporte dutoviário de etanol,https://ontl-apim.infrasa.gov.br/api/public/datasets/logum_transportetarifas
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",TRANSPORTE DE CARGA,,Índice inct-l e inct-f acumulado anual,https://ontl-apim.infrasa.gov.br/api/public/datasets/ntcl_inctlacumuladoanual
+INFORMAÇÃO SOCIOECONÔMICA E COMPETITIVIDADE,"PREÇOS, TARIFAS E CUSTOS",TRANSPORTE DE PASSAGEIROS,,Yield tarifa aérea real médio (t$-km),https://ontl-apim.infrasa.gov.br/api/public/datasets/anac_yieldtarifaaerearealmedio
+MEIO AMBIENTE,POLUIÇÃO ATMOSFÉRICA,,,Emissões poluentes por modos de transporte: * dióxido de carbono (co2) * monóxido carbono (co) * óxido nitroso (n2o),https://ontl-apim.infrasa.gov.br/api/public/datasets/mctic_poluentespormodo
+MEIO AMBIENTE,POLUIÇÃO ATMOSFÉRICA,,,Emissões em dióxido de carbono equivalente por setor,https://ontl-apim.infrasa.gov.br/api/public/datasets/mctic_emissaodioxidoporsetor
+MEIO AMBIENTE,POLUIÇÃO ATMOSFÉRICA,,,Emissões poluentes por queima de combustíveis: * metano (ch4) * óxido nitroso (n2o) * metano (ch4) * nmvoc,https://ontl-apim.infrasa.gov.br/api/public/datasets/mctic_poluentequeimacombustivel
+MEIO AMBIENTE,POLUIÇÃO ATMOSFÉRICA,,,Dados Municipais de Emissões SEEG,https://ontl-apim.infrasa.gov.br/api/public/datasets/seeg_emissoeseremossoesgee
+MEIO AMBIENTE,POLUIÇÃO ATMOSFÉRICA,,,GHG Highlights,https://ontl-apim.infrasa.gov.br/api/public/datasets/iea_ghghighlights
+MEIO AMBIENTE,CONSUMO DE ENERGIA E DEPENDÊNCIA ENERGÉTICA,,,Consumo energético por setores,https://ontl-apim.infrasa.gov.br/api/public/datasets/epe_consenergsetor
+MEIO AMBIENTE,CONSUMO DE ENERGIA E DEPENDÊNCIA ENERGÉTICA,,,"Consumo energético por modo, por tipo de combustível",https://ontl-apim.infrasa.gov.br/api/public/datasets/epe_consenergmodotipo/
+MEIO AMBIENTE,CONSUMO DE ENERGIA E DEPENDÊNCIA ENERGÉTICA,,,Vendas de óleo diesel em m³,https://ontl-apim.infrasa.gov.br/api/public/datasets/anp_vendasoleodiesel
+MEIO AMBIENTE,CONSUMO DE ENERGIA E DEPENDÊNCIA ENERGÉTICA,,,Oferta demanda energia por fonte,https://ontl-apim.infrasa.gov.br/api/public/datasets/epe_ofertademandaenergia
+MEIO AMBIENTE,VAZAMENTOS QUÍMICOS,,,Acidentes envolvendo produtos químicos perigosos,https://ontl-apim.infrasa.gov.br/api/public/datasets/ibama_acidentranprodqumiperigoso
+ANUÁRIO,PANORAMA ECONÔMICO,,,Variação do pib,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_variacaopib
+ANUÁRIO,PANORAMA ECONÔMICO,,,Índice nacional de preços,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_indicenacionaldeprecos
+ANUÁRIO,PANORAMA ECONÔMICO,,,Índice de preços do setor transporte,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_indiceprecossetortransp
+ANUÁRIO,PANORAMA ECONÔMICO,,,Consumo de óleo diesel e biodiesel no setor de transportes,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_consumodieseltransp
+ANUÁRIO,PANORAMA ECONÔMICO,,,Consumo das famílias,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_consumodasfamilias
+ANUÁRIO,PANORAMA ECONÔMICO,,,Comércio exterior,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_volumetranspcomercioexterior
+ANUÁRIO,PANORAMA ECONÔMICO,,,Taxa de câmbio,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_taxadecambio
+ANUÁRIO,PANORAMA ECONÔMICO,,,Taxa selic,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_taxaselic
+ANUÁRIO,CADEIA PRODUTIVA,PRODUTOS RELEVANTES,,Granel sólido agrícola,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_granelsolidoagricola
+ANUÁRIO,CADEIA PRODUTIVA,PRODUTOS RELEVANTES,,Granel sólido não agrícola,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_granelsolidonaoagricola
+ANUÁRIO,CADEIA PRODUTIVA,PRODUTOS RELEVANTES,,Granel líquido e gasoso,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_granelliquidoegasoso
+ANUÁRIO,CADEIA PRODUTIVA,PRODUTOS RELEVANTES,,Carga geral,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_cargageral
+ANUÁRIO,CADEIA PRODUTIVA,PRODUÇÃO DE VEÍCULOS POR MODO DE TRANSPORTE,,Caminhões,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_producaocaminhoes
+ANUÁRIO,CADEIA PRODUTIVA,PRODUÇÃO DE VEÍCULOS POR MODO DE TRANSPORTE,,Veículos leves,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_producaoveiculosleves
+ANUÁRIO,CADEIA PRODUTIVA,PRODUÇÃO DE VEÍCULOS POR MODO DE TRANSPORTE,,Ônibus,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_producaoonibus
+ANUÁRIO,CADEIA PRODUTIVA,PRODUÇÃO DE VEÍCULOS POR MODO DE TRANSPORTE,,Material rodante ferroviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_materialrodanteferroviario
+ANUÁRIO,CADEIA PRODUTIVA,PRODUÇÃO DE VEÍCULOS POR MODO DE TRANSPORTE,,Aeronaves,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_producaoaeronaves
+ANUÁRIO,CADEIA PRODUTIVA,PRODUÇÃO DE VEÍCULOS POR MODO DE TRANSPORTE,,Embarcações,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_embarcacoes
+ANUÁRIO,CADEIA PRODUTIVA,PRODUÇÃO INDUSTRIAL,,Indústria geral,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_industriageral
+ANUÁRIO,CADEIA PRODUTIVA,PRODUÇÃO INDUSTRIAL,,Indústria extrativista,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_industriaextrativista
+ANUÁRIO,CADEIA PRODUTIVA,PRODUÇÃO INDUSTRIAL,,Indústria de transformação,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_industriatransformacao
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,POR MODO DE TRANSPORTE,,Rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_rodmalhafederal
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,POR MODO DE TRANSPORTE,,Rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_rodvisaosuperficiefederal
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,POR MODO DE TRANSPORTE,,Rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_rodmalhaconcedida
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,POR MODO DE TRANSPORTE,,Ferroviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_ferromalhaconcedida
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,POR MODO DE TRANSPORTE,,Trens turísticos e comemorativos,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_trensturisticoscomemorativos
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,POR MODO DE TRANSPORTE,,Aeroportuário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aeroportuario
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,POR MODO DE TRANSPORTE,,Aquaviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_aquaviario
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,POR MODO DE TRANSPORTE,,Dutoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_dutoviario
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,CAPACIDADE DE ARMAZENAGEM,,Capacidade estática dos armazéns versus produção agrícola,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_capacidadeproducaoarmazens
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,CAPACIDADE DE ARMAZENAGEM,,Capacidade estática dos armazéns em relação à produção agrícola,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_capacidaderelacaoproducaoarmazens
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA RODOVIÁRIA,,Veículos rodoviários,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_veiculosrodoviarios
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA RODOVIÁRIA,,Nº de veículos no ntrc,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_veiculosrntrc
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA RODOVIÁRIA,,Frota estrangeira habilitada no tric por país de origem,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_frotaextrangeiratric
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA RODOVIÁRIA,,Frota brasileira habilitada no tric por país de destino,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_frotabrasileiratric
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA RODOVIÁRIA,,Idade média dos veículos rodoviários (mirc),https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_idademediaveiculosrntrc
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA RODOVIÁRIA,,Registro de operador de transporte multimodal de carga (otm),https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_registrootmcarga
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA FERROVIÁRIA,,Trens formados,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_trensformados
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA FERROVIÁRIA,,Frota locomotivas e vagões em tráfego,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_frotalocomotivasevagoes
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA FERROVIÁRIA,,Vagões em tráfego por tipo,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_vagoesemtrafego
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA DE AERONAVES,,"Aeronaves registradas no transporte aéreo público regular, doméstico ou internacional (tpr)",https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aeronavesresgistradastpr
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA DE AERONAVES,,Registros de aeronaves por categoria,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_registrosaeronaves
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA AQUAVIÁRIA,,Navegação interior,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_navinteriorembarcacoes
+ANUÁRIO,INFRAESTRUTURA EM OPERAÇÃO,FROTA AQUAVIÁRIA,,Cabotagem,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_cabotagemembarcacoes
+ANUÁRIO,INVESTIMENTOS,INVESTIMENTO PÚBLICO,,Investimento público federal,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_investimentopublicofederal
+ANUÁRIO,INVESTIMENTOS,INVESTIMENTO PRIVADO,,Investimento privado,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_investimentoprivad
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,RODOVIÁRIO,,Transporte rodoviário de passageiros,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_transporterodpassageiros
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,RODOVIÁRIO,,taxa de ocupação,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_taxaocupacao
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,RODOVIÁRIO,,Quantidade de viagens realizadas,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_qtdviagensrealizadas
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,RODOVIÁRIO,,Comparativo passageiros interestaduais transportados rodoviário e aeroviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_rodxaeropassageiros
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,FERROVIÁRIO,,Passageiros transportados em linhas regulares,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_passageirostransplinhasregu
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,FERROVIÁRIO,,Passageiros.km em linhas regulares,https://ontl-apim.infrasa.gov.br/api/public/datasets/anuario_passageiroskmlinhasregu
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,AEROPORTUÁRIO,,Passageiros pagos transportados,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aeropassageirospagos
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,AEROPORTUÁRIO,,Quantidade de voos,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aerovoos
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,AEROPORTUÁRIO,,Taxa de ocupação por mercado,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aerotaxaocupacao
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,AEROPORTUÁRIO,,Principais aeroportos do mercado doméstico,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aeroaeroportosmercadodomestico
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,AEROPORTUÁRIO,,Principais rotas domésticas,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aerorotasdomesticas
+ANUÁRIO,MOVIMENTAÇÃO DE PASSAGEIROS,AEROPORTUÁRIO,,Principais rotas internacionais,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aerorotasinternacionais
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,RODOVIÁRIO,,Transporte de automóveis comercializados no brasil,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_rodtranspautomoveis
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,RODOVIÁRIO,,Média do índice ABCR,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_rodindiceabcr
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,FERROVIÁRIO,,Transporte e produção,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_ferrotranspproducao
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,FERROVIÁRIO,,Principais cargas transportadas,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_ferrocargastransp
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,FERROVIÁRIO,,Transporte de minério de ferro,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_ferrotranspminerioferro
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,FERROVIÁRIO,,"Transporte de milho, soja e farelo de soja",https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_ferrotranspmilhosoja
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,FERROVIÁRIO,,Operação ferroviária em direção aos portos,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_ferrooperacaoportos
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AEROPORTUÁRIO,,Quantidade de carga paga transportada,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_qtdcargapagatransp
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AEROPORTUÁRIO,,Principais mercadorias exportadas,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aeromercadoriasexportadas
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AEROPORTUÁRIO,,Principais mercadorias importadas,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aeromercadoriasimportadas
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AEROPORTUÁRIO,,Movimentação de carga doméstica,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movcargadomesticaaeroportos
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AEROPORTUÁRIO,,Movimentação de carga internacional,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movcargainternacionalaeroportos
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AQUAVIÁRIO,,Evolução do transporte,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_evolucaotranspaquaviario
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AQUAVIÁRIO,,Movimentação de contêineres,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movconteineres
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AQUAVIÁRIO,,Transporte de longo curso (exportação e importação),https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_transplongocurso
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AQUAVIÁRIO,,Transporte cabotagem,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_transocabotagem
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AQUAVIÁRIO,,Principais produtos,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aquaprodutoscabotagem
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AQUAVIÁRIO,,Transporte navegação interior,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aquatranspnavegacaointerior
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AQUAVIÁRIO,,Principais instalações portuárias de movimentação,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_instalacoesportuariasmov
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,AQUAVIÁRIO,,Perfil de carga,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_aquaperfilcarga
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,DUTOVIÁRIO,,Movimentação oleodutos,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movoleodutostodascargas
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,DUTOVIÁRIO,,Movimentação gasodutos,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movgasodutomediano
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,CG - CARGA GERAL (MERCADO INTERNO),,Arroz conteinerizado,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movarrozconteinerizado
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,CG - CARGA GERAL (MERCADO INTERNO),,Cabotagem,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movcabotagem
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,CG - CARGA GERAL (MERCADO INTERNO),,Navegação interior,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_navinteriorcargageral
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,CG - CARGA GERAL (MERCADO INTERNO),,Produtos navegação interior,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_produtosnavinterior
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,CG - CARGA GERAL (COMÉRCIO EXTERIOR),,Transporte rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movcargageralrod
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,CG - CARGA GERAL (COMÉRCIO EXTERIOR),,Principais parceiros comerciais pelo modo rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_parccomerciaisrod
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,CG - CARGA GERAL (COMÉRCIO EXTERIOR),,Transporte marítimo,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movmaritimalongocurso
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,CG - CARGA GERAL (COMÉRCIO EXTERIOR),,Produtos navegação de longo curso,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_produtosnavlongocurso
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,CG - CARGA GERAL (COMÉRCIO EXTERIOR),,Transporte aéreo importação,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_transpaereoimport
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,CG - CARGA GERAL (COMÉRCIO EXTERIOR),,Transporte aéreo exportação,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_transpaereoexport
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GSA - GRANEL SÓLIDO AGRÍCOLA (COMÉRCIO EXTERIOR),,Transporte de soja e milho com destino às instalações portuárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_transpsojamilhoinstportuarias
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GSA - GRANEL SÓLIDO AGRÍCOLA (COMÉRCIO EXTERIOR),,Participação do arco norte nas exportações,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_arconorteesportacao
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GSNA - GRANEL SÓLIDO NÃO AGRÍCOLA (COMÉRCIO EXTERIOR),,Principais instalações portuárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movinstalacoesportuarias
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,FERROVIÁRIO,,Transporte ferroviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movtranspferroviario
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GLG - GRANEL LÍQUIDO E GASOSO (MERCADO INTERNO),,Transporte de cabotagem (petróleo e derivados),https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movcabotagempetroleoederivados
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GLG - GRANEL LÍQUIDO E GASOSO (MERCADO INTERNO),,Oleodutos,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movoleodutos
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GLG - GRANEL LÍQUIDO E GASOSO (MERCADO INTERNO),,Diesel,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movdiesel
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GLG - GRANEL LÍQUIDO E GASOSO (COMÉRCIO EXTERIOR),,Petróleo e derivados,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movpetroleoederivados
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GLG - GRANEL LÍQUIDO E GASOSO (COMÉRCIO EXTERIOR),,Granel líquido no longo curso,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movgranelliquidolongocurso
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GLG - GRANEL LÍQUIDO E GASOSO (COMÉRCIO EXTERIOR),,Principais instalações portuárias,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movprincipaisinstalacoesportuarias
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GSNA - GRANEL SÓLIDO NÃO AGRÍCOLA (MERCADO INTERNO),,Transporte cabotagem,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_movcabotagemminerios
+ANUÁRIO,MOVIMENTAÇÃO DE CARGA,GSNA - GRANEL SÓLIDO NÃO AGRÍCOLA (MERCADO INTERNO),,Consumo aparente de cimento,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_consumoaparentecimento
+ANUÁRIO,ACIDENTES DE TRÁFEGO,ACIDENTES DE TRÁFEGO,,Rodoviários,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_acidentesrodoviario
+ANUÁRIO,ACIDENTES DE TRÁFEGO,ACIDENTES DE TRÁFEGO,,Ferroviários,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_acidentesferroviario
+ANUÁRIO,ACIDENTES DE TRÁFEGO,ACIDENTES DE TRÁFEGO,,Aeroviários,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_acidentesaeroviario
+ANUÁRIO,ACIDENTES DE TRÁFEGO,ACIDENTES DE TRÁFEGO,,Aquaviários,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_acidentesaquaviario
+ANUÁRIO,MEIO AMBIENTE,MEIO AMBIENTE,,Consumo de energia,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_consumoenergia
+ANUÁRIO,MEIO AMBIENTE,MEIO AMBIENTE,,Consumo de energia,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_consumoenergiasetortransp
+ANUÁRIO,MEIO AMBIENTE,MEIO AMBIENTE,,Emissões de dióxido de carbono,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_emissoesdioxidocarbono
+ANUÁRIO,MEIO AMBIENTE,MEIO AMBIENTE,,Emissões de dióxido de carbono,https://ontl-apim.infrasa.gov.br/api/public/datasets/vw_anuario_emissoesdioxidocarbonosetortransp
+PANORAMA TRANSPORTES,,,,Vítimas fatais em acidentes,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_vitimasfatais
+PANORAMA TRANSPORTES,,,,Pesquisa mensal de serviços,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_pesquisamensaldeservicos
+PANORAMA TRANSPORTES,,,,Diesel preço,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_diesel
+PANORAMA TRANSPORTES,,,,Frete médio,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_fretemedio
+PANORAMA TRANSPORTES,,,,Índice ABCR,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_indiceabcr
+PANORAMA TRANSPORTES,,,,Investimentos públicos,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_investimentospublicos
+PANORAMA TRANSPORTES,,,,Movimentação portuária,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_movimentacaoportuaria
+PANORAMA TRANSPORTES,,,,Passageiros rodoviários,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_rodoviarioprecomediovolume
+PANORAMA TRANSPORTES,,,,Pib,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_pib
+PANORAMA TRANSPORTES,,,,Variação no faturamento nominal do comércio varejista,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_faturamentonominalcomerciovarejista
+PANORAMA TRANSPORTES,,,,Saldo de admissões e demissões formais,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_saldoadmissoesedemissoes
+PANORAMA TRANSPORTES,,,,Tráfego pedagiado,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_trafegopedagiado
+PANORAMA TRANSPORTES,,,,Trabsporte aéreo,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_transporteaereo
+PANORAMA TRANSPORTES,,,,Transporte aéreo yield,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_transporteaereoyield
+PANORAMA TRANSPORTES,,,,Transporte aéreo yield anual,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_transporteaereoyieldanual
+PANORAMA TRANSPORTES,,,,Transporte ferroviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_transporteferroviario
+PANORAMA TRANSPORTES,,,,Transporte rodoviário,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_volumecargarodoviario
+PANORAMA TRANSPORTES,,,,Diesel consumo e produção,https://ontl-apim.infrasa.gov.br/api/public/datasets/resenha_dieselconsumo
